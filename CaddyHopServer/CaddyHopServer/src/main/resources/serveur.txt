@@ -1,0 +1,14 @@
+ssh admin@162.243.106.178
+contacter machine distante
+
+mdp: caddyhop
+
+scp -r Bureau/serveur admin@162.243.106.178:/home/admin
+
+mvn clean package exec:java -Dexec.mainClass="server.MainServer" &
+
+ps aux | grep java
+
+kill -9 4419
+
+mvn verify jacoco:report

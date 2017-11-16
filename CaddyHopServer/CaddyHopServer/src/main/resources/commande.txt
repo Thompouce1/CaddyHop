@@ -1,0 +1,22 @@
+Creer client
+POST http://162.243.106.178:8080/users
+{"nom":"Boudab", "prenom":"Jonathan","email":"bj@gmail.col","login":"sweaty","mdp":"bmw3"}
+
+Voir tous les clients
+GET http://162.243.106.178:8080/users
+
+Voir un client
+GET http://162.243.106.178:8080/users/{id}
+
+Créer une liste de courses
+POST http://162.243.106.178:8080/users/{id}/lists
+
+Voir listes d'un client
+GET http://162.243.106.178:8080/users/{id}/lists
+
+Voir une liste d'un client
+GET http://162.243.106.178:8080/users/{id}/lists/{id}
+
+Ajouter un article
+POST http://162.243.106.178:8080/users/{id}/lists/0/items
+{"nom":"coca cola 2L", "quantite":"1","prix":"1.80","codeBarre":"5000112616316"}

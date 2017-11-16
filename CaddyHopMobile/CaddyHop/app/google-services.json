@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "107859842856",
+    "firebase_url": "https://caddy-hop.firebaseio.com",
+    "project_id": "caddy-hop",
+    "storage_bucket": "caddy-hop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107859842856:android:739e6d26d50727c9",
+        "android_client_info": {
+          "package_name": "fr.polytechnice.caddyhop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107859842856-b3v08oll6g836n9fuo53anadebnnv3fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.polytechnice.caddyhop",
+            "certificate_hash": "E2209C92FEBC406FEDB39EAB537A044719F407F3"
+          }
+        },
+        {
+          "client_id": "107859842856-ch0lnen7t9o77dj040eegqtnjcq0vlsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr9wsP6VG3nHnYaOk5B09BF43z83XMAxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

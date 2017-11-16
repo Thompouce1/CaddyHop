@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bb_current_list"
+        android:title="Liste" />
+    <item
+        android:id="@+id/bb_all_list"
+        android:title="Toutes les listes" />
+    <item
+        android:id="@+id/bb_account_info"
+        android:title="Compte" />
+</menu>

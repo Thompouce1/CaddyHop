@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Caddy Hop</string>
+
+    <string name="tutorial.account.title">Synchronize your data</string>
+    <string name="tutorial.account.subtitle">Don\'t have an account? Create a new one easily !</string>
+
+    <string name="tutorial.createlist.title">Create your shopping list</string>
+    <string name="tutorial.createlist.subtitle">Start putting your shopping list. Create as many as you want.</string>
+
+    <string name="tutorial.activatelist.title">Ready to go shopping?</string>
+    <string name="tutorial.activatelist.subtitle">Choose a list and make it as the active list.</string>
+
+    <string name="tutorial.scanbarcode.title">Scan items</string>
+    <string name="tutorial.scanbarcode.subtitle">Found the item you are looking for? Just scan the barcode using the application, and put the item in your trolley. The item will be checked from your shopping list automatically.</string>
+
+    <string name="tutorial.generateqrcode.title">Pay using QR code</string>
+    <string name="tutorial.generateqrcode.subtitle">Avoid the long queue. Just show your QR code in order to pay at the cashier.</string>
+
+    <string name="tutorial.welcome.title">Welcome to CaddyHop, the next shopping revolution.</string>
+    <string name="tutorial.welcome.subtitle">This tutorial will help you to get started using this application.</string>
+
+</resources>

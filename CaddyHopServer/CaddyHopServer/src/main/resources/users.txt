@@ -1,0 +1,144 @@
+{"Current session : ": [
+    {
+        "listCarteFidel": [],
+        "mdp": "mdp1",
+        "itemListList": [{
+            "articleList": [
+                {
+                    "coordX": 0,
+                    "categorie": {},
+                    "coordY": 0,
+                    "prix": 1.8,
+                    "codeBarre": "5000112616316",
+                    "description": "bouteille de coca 2L",
+                    "nom": "coca cola 2L",
+                    "quantite": 1
+                },
+                {
+                    "coordX": 0,
+                    "categorie": {},
+                    "coordY": 0,
+                    "prix": 2.14,
+                    "codeBarre": "5449000185945",
+                    "description": "oh cherry",
+                    "nom": "coca cola cherry 2L",
+                    "quantite": 1
+                },
+                {
+                    "coordX": 0,
+                    "categorie": {},
+                    "coordY": 0,
+                    "prix": 1.67,
+                    "codeBarre": "5449000061294",
+                    "description": "ici c'est life",
+                    "nom": "coca cola life 1.5L",
+                    "quantite": 1
+                }
+            ],
+            "id": 0,
+            "nom": "liste1"
+        }],
+        "id": 0,
+        "login": "user1",
+        "nom": "nom1",
+        "prenom": "prenom1",
+        "email": "email1"
+    },
+    {
+        "listCarteFidel": [],
+        "mdp": "mdp2",
+        "itemListList": [{
+            "articleList": [],
+            "id": 1,
+            "nom": "liste2"
+        }],
+        "id": 1,
+        "login": "user2",
+        "nom": "nom2",
+        "prenom": "prenom2",
+        "email": "email2"
+    },
+    {
+        "listCarteFidel": [],
+        "mdp": "password",
+        "itemListList": [
+            {
+                "articleList": [
+                    {
+                        "coordX": 0,
+                        "categorie": {},
+                        "coordY": 0,
+                        "prix": 1.8,
+                        "codeBarre": "5000112616316",
+                        "description": "bouteille de coca 2L",
+                        "nom": "coca cola 2L",
+                        "quantite": 1
+                    },
+                    {
+                        "coordX": 0,
+                        "categorie": {},
+                        "coordY": 0,
+                        "prix": 2.14,
+                        "codeBarre": "5449000185945",
+                        "description": "oh cherry",
+                        "nom": "coca cola cherry 2L",
+                        "quantite": 1
+                    },
+                    {
+                        "coordX": 0,
+                        "categorie": {},
+                        "coordY": 0,
+                        "prix": 1.67,
+                        "codeBarre": "5449000061294",
+                        "description": "ici c'est life",
+                        "nom": "coca cola life 1.5L",
+                        "quantite": 1
+                    }
+                ],
+                "id": 2,
+                "nom": "Lundi"
+            },
+            {
+                "articleList": [
+                    {
+                        "coordX": 0,
+                        "categorie": {},
+                        "coordY": 0,
+                        "prix": 2.23,
+                        "codeBarre": "3449848300007",
+                        "description": "Ici description",
+                        "nom": "Les grandes tranches Aoste x2",
+                        "quantite": 1
+                    },
+                    {
+                        "coordX": 0,
+                        "categorie": {},
+                        "coordY": 0,
+                        "prix": 3.03,
+                        "codeBarre": "3222471975251",
+                        "description": "Ici description",
+                        "nom": "Lasagne 1kg",
+                        "quantite": 1
+                    },
+                    {
+                        "coordX": 0,
+                        "categorie": {},
+                        "coordY": 0,
+                        "prix": 7.7,
+                        "codeBarre": "3041311027635",
+                        "description": "Ici description",
+                        "nom": "Manzanita 70cl",
+                        "quantite": 1
+                    }
+                ],
+                "id": 3,
+                "nom": "Mardi"
+            }
+        ],
+        "id": 2,
+        "login": "Neoskai",
+        "nom": "POPO",
+        "prenom": "LOLO",
+        "email": "emaiefqqs"
+    }
+]}

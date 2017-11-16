@@ -1,0 +1,3662 @@
+{"Current session : ": [
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.8,
+        "codeBarre": "5000112616316",
+        "description": "bouteille de coca 2L",
+        "nom": "coca cola 2L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.14,
+        "codeBarre": "5449000185945",
+        "description": "oh cherry",
+        "nom": "coca cola cherry 2L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.67,
+        "codeBarre": "5449000061294",
+        "description": "ici c'est life",
+        "nom": "coca cola life 1.5L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.34,
+        "codeBarre": "871266361885",
+        "description": "Ici description",
+        "nom": "ketchup amora",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.03,
+        "codeBarre": "8715700017006",
+        "description": "Ici description",
+        "nom": "ketchup heinz",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 108,
+        "codeBarre": "0804802800",
+        "description": "Ici description",
+        "nom": "Grey Goose vodka 1.75L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.14,
+        "codeBarre": "5050083500671",
+        "description": "Ici description",
+        "nom": "trésor chocolat lait 650gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.21,
+        "codeBarre": "5050083593673",
+        "description": "Ici description",
+        "nom": "trésor duo choco 400gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.31,
+        "codeBarre": "3387620005132",
+        "description": "Ici description",
+        "nom": "Merguez authentique x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4,
+        "codeBarre": "3230890795121",
+        "description": "Ici description",
+        "nom": "Cuisse de poulet marinée",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.5,
+        "codeBarre": "3435660730986",
+        "description": "Ici description",
+        "nom": "Assortiment de volaille 600gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.7,
+        "codeBarre": "7613035386761",
+        "description": "Ici description",
+        "nom": "Jambon fumé herta x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.23,
+        "codeBarre": "3449848300007",
+        "description": "Ici description",
+        "nom": "Les grandes tranches Aoste x2",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.94,
+        "codeBarre": "3024720022361",
+        "description": "Ici description",
+        "nom": "Rillettes du Mans 220gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.95,
+        "codeBarre": "3222473642946",
+        "description": "Ici description",
+        "nom": "Pavé de saumon bio",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.5,
+        "codeBarre": "3222473590285",
+        "description": "Ici description",
+        "nom": "Filet de merlu blanc",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6,
+        "codeBarre": "3222474268404",
+        "description": "Ici description",
+        "nom": "Crevettes 400gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.7,
+        "codeBarre": "3187670613604",
+        "description": "Ici description",
+        "nom": "Assortiment de macarons x12",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 9.6,
+        "codeBarre": "3567747040395",
+        "description": "Ici description",
+        "nom": "Amandine aux poires",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 10.9,
+        "codeBarre": "3325770866814",
+        "description": "Ici description",
+        "nom": "Entremets de citron meringue",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.61,
+        "codeBarre": "3272770097987",
+        "description": "Ici description",
+        "nom": "St-Moret nature 140gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.26,
+        "codeBarre": "3114270400334",
+        "description": "Ici description",
+        "nom": "Chaussée aux Moines 450gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.7,
+        "codeBarre": "3176582986722",
+        "description": "Ici description",
+        "nom": "Camembert le Rustique 250gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.09,
+        "codeBarre": "3033490906269",
+        "description": "Ici description",
+        "nom": "Danette panache x12",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.54,
+        "codeBarre": "3033490112134",
+        "description": "Ici description",
+        "nom": "Danette pistache x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.74,
+        "codeBarre": "3023290600023",
+        "description": "Ici description",
+        "nom": "La laitiere patissier x12",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.88,
+        "codeBarre": "3161911229199",
+        "description": "Ici description",
+        "nom": "Beurre tendre elle&vire",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.38,
+        "codeBarre": "3155250001707",
+        "description": "Ici description",
+        "nom": "Creme epaisse bridelice 50cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.89,
+        "codeBarre": "3451790941610",
+        "description": "Ici description",
+        "nom": "Beurre elle&vire",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.76,
+        "codeBarre": "8712100494376",
+        "description": "Ici description",
+        "nom": "Magnum fraise x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.81,
+        "codeBarre": "5000159436465",
+        "description": "Ici description",
+        "nom": "Snickers glace x7",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.75,
+        "codeBarre": "7613035012899",
+        "description": "Ici description",
+        "nom": "Mystere vanille x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.82,
+        "codeBarre": "3700311820294",
+        "description": "Ici description",
+        "nom": "Boeuf haché 800gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.82,
+        "codeBarre": "3700311820225",
+        "description": "Ici description",
+        "nom": "Steak haché x10",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.9,
+        "codeBarre": "3181231001732",
+        "description": "Ici description",
+        "nom": "Steak haché à l'oignon x10",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.64,
+        "codeBarre": "3181232518833",
+        "description": "Ici description",
+        "nom": "Cheesburger charal x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.61,
+        "codeBarre": "3181232518642",
+        "description": "Ici description",
+        "nom": "Kebab charal x2",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.04,
+        "codeBarre": "3222475312427",
+        "description": "Ici description",
+        "nom": "Sticks de fromage 300gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.21,
+        "codeBarre": "4606272023295",
+        "description": "Ici description",
+        "nom": "Piccolinis jambon x9",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.45,
+        "codeBarre": "9557477771588",
+        "description": "Ici description",
+        "nom": "Samossas 350gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.75,
+        "codeBarre": "7613035302785",
+        "description": "Ici description",
+        "nom": "Piccolinis champignon x9",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.36,
+        "codeBarre": "3700311811247",
+        "description": "Ici description",
+        "nom": "Poisson pané x15",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.41,
+        "codeBarre": "3222471006580",
+        "description": "Ici description",
+        "nom": "Filet de cabillaud x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 10.4,
+        "codeBarre": "4008467051050",
+        "description": "Ici description",
+        "nom": "Crevettes cuites 350gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.03,
+        "codeBarre": "3222471975251",
+        "description": "Ici description",
+        "nom": "Lasagne 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.45,
+        "codeBarre": "3248830723431",
+        "description": "Ici description",
+        "nom": "Hachi parmentier 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.48,
+        "codeBarre": "3222472243311",
+        "description": "Ici description",
+        "nom": "Poisson à l'oseille",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.53,
+        "codeBarre": "3222474703684",
+        "description": "Ici description",
+        "nom": "Jardiniere de legumes",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.5,
+        "codeBarre": "3434410013386",
+        "description": "Ici description",
+        "nom": "Cepes entieres",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.06,
+        "codeBarre": "3222471020982",
+        "description": "Ici description",
+        "nom": "Epinard hache",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.55,
+        "codeBarre": "3599740009338",
+        "description": "Ici description",
+        "nom": "Pommes rissolees 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.49,
+        "codeBarre": "3599740003176",
+        "description": "Ici description",
+        "nom": "Crousti frites 180gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.15,
+        "codeBarre": "8710438100877",
+        "description": "Ici description",
+        "nom": "Mc Cain allumettes 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.6,
+        "codeBarre": "4001724006923",
+        "description": "Ici description",
+        "nom": "Pizza ristaurant royale",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.9,
+        "codeBarre": "3222472791430",
+        "description": "Ici description",
+        "nom": "Tarte aux oignons",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.4,
+        "codeBarre": "7613034225795",
+        "description": "Ici description",
+        "nom": "Buitoni fraich'up royale",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.99,
+        "codeBarre": "3174780006235",
+        "description": "Ici description",
+        "nom": "Sprite",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.9,
+        "codeBarre": "3080210000226",
+        "description": "Ici description",
+        "nom": "1664 blonde x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.34,
+        "codeBarre": "5410228225768",
+        "description": "Ici description",
+        "nom": "Leffe blonde x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.97,
+        "codeBarre": "3080216036960",
+        "description": "Ici description",
+        "nom": "Skoll 50cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.3,
+        "codeBarre": "3222472347989",
+        "description": "Ici description",
+        "nom": "oeuf x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.82,
+        "codeBarre": "3458272110017",
+        "description": "Ici description",
+        "nom": "Matin leger bio lactel 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.37,
+        "codeBarre": "3533631835002",
+        "description": "Ici description",
+        "nom": "Candia bio 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.97,
+        "codeBarre": "3048431061952",
+        "description": "Ici description",
+        "nom": "Vittel mini 50cl x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.3,
+        "codeBarre": "3057640234668",
+        "description": "Ici description",
+        "nom": "Volvic 8L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.16,
+        "codeBarre": "3108020730239",
+        "description": "Ici description",
+        "nom": "Vichy celestins 50cl x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.15,
+        "codeBarre": "3123340003054",
+        "description": "Ici description",
+        "nom": "Multifruit Joker 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.17,
+        "codeBarre": "3222471167113",
+        "description": "Ici description",
+        "nom": "Nectar 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.62,
+        "codeBarre": "3222474224738",
+        "description": "Ici description",
+        "nom": "Jus de pomme 1.5L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.76,
+        "codeBarre": "3222471016060",
+        "description": "Ici description",
+        "nom": "Grenadine 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.11,
+        "codeBarre": "3222474197162",
+        "description": "Ici description",
+        "nom": "Kiwi banane",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.13,
+        "codeBarre": "3092713000306",
+        "description": "Ici description",
+        "nom": "Grenadine Teisseire",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 27.95,
+        "codeBarre": "3760197910502",
+        "description": "Ici description",
+        "nom": "Georges Cartier 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 30.66,
+        "codeBarre": "3043700104002",
+        "description": "Ici description",
+        "nom": "Mumm 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 27.32,
+        "codeBarre": "3282946104630",
+        "description": "Ici description",
+        "nom": "Feuillatte 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 45.12,
+        "codeBarre": "5010677850100",
+        "description": "Ici description",
+        "nom": "Grey Goose vodka 70cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 29.04,
+        "codeBarre": "3099873045369",
+        "description": "Ici description",
+        "nom": "Jack Daniel's 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 7.7,
+        "codeBarre": "3041311027635",
+        "description": "Ici description",
+        "nom": "Manzanita 70cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.35,
+        "codeBarre": "3138670344203",
+        "description": "Ici description",
+        "nom": "Mister cocktail kiwi 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.02,
+        "codeBarre": "3222473375264",
+        "description": "Ici description",
+        "nom": "Anise 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 9.12,
+        "codeBarre": "3011932000843",
+        "description": "Ici description",
+        "nom": "Martini rosato 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.8,
+        "codeBarre": "3222471125199",
+        "description": "Ici description",
+        "nom": "Alsace riesling 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.5,
+        "codeBarre": "3251091402779",
+        "description": "Ici description",
+        "nom": "Medoc la branne 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.82,
+        "codeBarre": "3760143474140",
+        "description": "Ici description",
+        "nom": "Cote de provence 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.25,
+        "codeBarre": "3600530847915",
+        "description": "Ici description",
+        "nom": "Masscara Maybelline",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 11.09,
+        "codeBarre": "3600530523627",
+        "description": "Ici description",
+        "nom": "Fond de teint",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.34,
+        "codeBarre": "3600530901210",
+        "description": "Ici description",
+        "nom": "BabyLips",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.71,
+        "codeBarre": "96080900",
+        "description": "Ici description",
+        "nom": "MonSavon",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.46,
+        "codeBarre": "8712561252485",
+        "description": "Ici description",
+        "nom": "Axe Provocation",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 9.41,
+        "codeBarre": "3017565100073",
+        "description": "Ici description",
+        "nom": "Parfum Titanium",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.48,
+        "codeBarre": "8714789554433",
+        "description": "Ici description",
+        "nom": "Colgate Blancheur",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.94,
+        "codeBarre": "8717644344279",
+        "description": "Ici description",
+        "nom": "Brosse a dent signal",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.73,
+        "codeBarre": "5000174498349",
+        "description": "Ici description",
+        "nom": "Fixodent",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.48,
+        "codeBarre": "5029053033648",
+        "description": "Ici description",
+        "nom": "Kleenex x30",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.43,
+        "codeBarre": "5029053038759",
+        "description": "Ici description",
+        "nom": "Kleenex cube",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.24,
+        "codeBarre": "7322540709414",
+        "description": "Ici description",
+        "nom": "Lotus x24",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.27,
+        "codeBarre": "3600541888302",
+        "description": "Ici description",
+        "nom": "Garnier masque",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.19,
+        "codeBarre": "3600541348223",
+        "description": "Ici description",
+        "nom": "Ultradoux vanille",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.61,
+        "codeBarre": "3600550769203",
+        "description": "Ici description",
+        "nom": "Dop amande douce",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.97,
+        "codeBarre": "3045206501408",
+        "description": "Ici description",
+        "nom": "Sanitol 250ml",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.44,
+        "codeBarre": "7322540535112",
+        "description": "Ici description",
+        "nom": "Nana x68",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.75,
+        "codeBarre": "3331300008135",
+        "description": "Ici description",
+        "nom": "Nair rollen",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 7.65,
+        "codeBarre": "4005808825417",
+        "description": "Ici description",
+        "nom": "Nivea Body douche",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.68,
+        "codeBarre": "3600550454130",
+        "description": "Ici description",
+        "nom": "Lait Mixa",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.55,
+        "codeBarre": "3600541734739",
+        "description": "Ici description",
+        "nom": "Lait Garnier",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.52,
+        "codeBarre": "3017563130997",
+        "description": "Ici description",
+        "nom": "Demaquillant cils",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 12.1,
+        "codeBarre": "3054080063858",
+        "description": "Ici description",
+        "nom": "Creme Loreal",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.06,
+        "codeBarre": "3215662980011",
+        "description": "Ici description",
+        "nom": "Gel désinfectant",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.58,
+        "codeBarre": "3222475405884",
+        "description": "Ici description",
+        "nom": "Pansement enfant x20",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.56,
+        "codeBarre": "3160920503306",
+        "description": "Ici description",
+        "nom": "Alcool 70%",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 7.99,
+        "codeBarre": "3532281600701",
+        "description": "Ici description",
+        "nom": "Préservatifs manix x14",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.99,
+        "codeBarre": "3056562102000",
+        "description": "Ici description",
+        "nom": "Hochet bébé",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.2,
+        "codeBarre": "3220660192486",
+        "description": "Ici description",
+        "nom": "Biberon",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 12.01,
+        "codeBarre": "7613032506636",
+        "description": "Ici description",
+        "nom": "Lait Poudre nestlé",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.31,
+        "codeBarre": "4006381355384",
+        "description": "Ici description",
+        "nom": "Surligneur x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.24,
+        "codeBarre": "3037928873581",
+        "description": "Ici description",
+        "nom": "Cahier clairefontaine 24x32",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.66,
+        "codeBarre": "4026700501889",
+        "description": "Ici description",
+        "nom": "Tube de colle UHU",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.12,
+        "codeBarre": "3164227801493",
+        "description": "Ici description",
+        "nom": "Bol jaune",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.5,
+        "codeBarre": "883314289251",
+        "description": "Ici description",
+        "nom": "Verre America",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 19.19,
+        "codeBarre": "3426470270489",
+        "description": "Ici description",
+        "nom": "Poele pyrex",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.89,
+        "codeBarre": "5000204862256",
+        "description": "Ici description",
+        "nom": "Canard WC",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.34,
+        "codeBarre": "3178041303538",
+        "description": "Ici description",
+        "nom": "Bref WC Power",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.38,
+        "codeBarre": "4015600571023",
+        "description": "Ici description",
+        "nom": "Mr Propre citron",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.99,
+        "codeBarre": "8718951092648",
+        "description": "Ici description",
+        "nom": "Soupline 1,5L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 7.73,
+        "codeBarre": "4015600917913",
+        "description": "Ici description",
+        "nom": "Lenor 275gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.18,
+        "codeBarre": "4084500659773",
+        "description": "Ici description",
+        "nom": "Dash 2en1 Perle x19",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.7,
+        "codeBarre": "L16361",
+        "description": "Ici description",
+        "nom": "Sudoku",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 10,
+        "codeBarre": "3700832942932",
+        "description": "Ici description",
+        "nom": "T-Shirt France euro 2016",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.85,
+        "codeBarre": "3040523081916",
+        "description": "Ici description",
+        "nom": "Collant mousse",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.58,
+        "codeBarre": "3452200001283",
+        "description": "Ici description",
+        "nom": "Pamplemousse orange citron",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.78,
+        "codeBarre": "3222472111245",
+        "description": "Ici description",
+        "nom": "Myrtille 750gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.5,
+        "codeBarre": "3608580759621",
+        "description": "Ici description",
+        "nom": "PamplemousseFraises 450gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.19,
+        "codeBarre": "7613034947611",
+        "description": "Ici description",
+        "nom": "Chocapic 750gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.82,
+        "codeBarre": "3222474224035",
+        "description": "Ici description",
+        "nom": "Farine de sarrazin 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.1,
+        "codeBarre": "3068110703249",
+        "description": "Ici description",
+        "nom": "Farine Francine 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.23,
+        "codeBarre": "3700311865646",
+        "description": "Ici description",
+        "nom": "Alsace sucre",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.09,
+        "codeBarre": "3222473628476",
+        "description": "Ici description",
+        "nom": "Cappuccino chocolate 144gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.55,
+        "codeBarre": "3228470032568",
+        "description": "Ici description",
+        "nom": "Senseo chocobreak",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.22,
+        "codeBarre": "3228470045858",
+        "description": "Ici description",
+        "nom": "Jacobs express DK",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.81,
+        "codeBarre": "3256540000643",
+        "description": "Ici description",
+        "nom": "Pitch pepites choco",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.5,
+        "codeBarre": "3660140846455",
+        "description": "Ici description",
+        "nom": "Brownie",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.11,
+        "codeBarre": "3178530410129",
+        "description": "Ici description",
+        "nom": "St Michel Madeleine 700gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.07,
+        "codeBarre": "322472217435",
+        "description": "Ici description",
+        "nom": "The vert agrume",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.91,
+        "codeBarre": "8712566151639",
+        "description": "Ici description",
+        "nom": "Elephant infusion tilleul",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.2,
+        "codeBarre": "3222475933370",
+        "description": "Ici description",
+        "nom": "Tilleul",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.21,
+        "codeBarre": "7622210234124",
+        "description": "Ici description",
+        "nom": "Granola",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.54,
+        "codeBarre": "3222471110508",
+        "description": "Ici description",
+        "nom": "Fourre noisette",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.19,
+        "codeBarre": "3106130000235",
+        "description": "Ici description",
+        "nom": "Galette pont aven",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.59,
+        "codeBarre": "3046920026857",
+        "description": "Ici description",
+        "nom": "Lindt 60% cacao",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.99,
+        "codeBarre": "3046920021401",
+        "description": "Ici description",
+        "nom": "Grandes pralines",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.02,
+        "codeBarre": "3033710002665",
+        "description": "Ici description",
+        "nom": "Galak",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.64,
+        "codeBarre": "8713800110146",
+        "description": "Ici description",
+        "nom": "SURFFIZZ Lutti",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.18,
+        "codeBarre": "3103220009987",
+        "description": "Ici description",
+        "nom": "Haribo tirlibibi",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.89,
+        "codeBarre": "7622210491176",
+        "description": "Ici description",
+        "nom": "GOMS",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.64,
+        "codeBarre": "3222471014127",
+        "description": "Ici description",
+        "nom": "Moutarde verre",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.48,
+        "codeBarre": "3222471057568",
+        "description": "Ici description",
+        "nom": "Mayonnaise 470gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.11,
+        "codeBarre": "3222472844969",
+        "description": "Ici description",
+        "nom": "Pain hamburger x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.59,
+        "codeBarre": "3228850008206",
+        "description": "Ici description",
+        "nom": "Mie 7 cereales",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.07,
+        "codeBarre": "3222471854129",
+        "description": "Ici description",
+        "nom": "Pain de mie",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.99,
+        "codeBarre": "3222474999810",
+        "description": "Ici description",
+        "nom": "Soupe campagnarde",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.57,
+        "codeBarre": "3036811357092",
+        "description": "Ici description",
+        "nom": "Spe Fondue poirot st jacques",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.61,
+        "codeBarre": "3222476116185",
+        "description": "Ici description",
+        "nom": "Veloute potiron",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.19,
+        "codeBarre": "3183811008117",
+        "description": "Ici description",
+        "nom": "Olives noires fromage chevre",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.87,
+        "codeBarre": "3183810000334",
+        "description": "Ici description",
+        "nom": "Tapenade 100gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.53,
+        "codeBarre": "3122471098905",
+        "description": "Ici description",
+        "nom": "Olives Poivrons 120gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.5,
+        "codeBarre": "3222476285423",
+        "description": "Ici description",
+        "nom": "Mini Cornichons 360gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.05,
+        "codeBarre": "8712566131495",
+        "description": "Ici description",
+        "nom": "Croq'Vert Amora 380gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.88,
+        "codeBarre": "3222472376217",
+        "description": "Ici description",
+        "nom": "Boeuf Bourguignon 300gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.66,
+        "codeBarre": "3222473272129",
+        "description": "Ici description",
+        "nom": "Petit salé aux lentilles",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.22,
+        "codeBarre": "3222476085986",
+        "description": "Ici description",
+        "nom": "Chili con carne",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.89,
+        "codeBarre": "8410076472526",
+        "description": "Ici description",
+        "nom": "Fajitas old el paso",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.95,
+        "codeBarre": "8410076472977",
+        "description": "Ici description",
+        "nom": "Burritos old el paso",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.46,
+        "codeBarre": "3229820762036",
+        "description": "Ici description",
+        "nom": "Nouilles Japonaises",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.22,
+        "codeBarre": "8076809545440",
+        "description": "Ici description",
+        "nom": "Spaghetti Barilla 400gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.1,
+        "codeBarre": "8076802085981",
+        "description": "Ici description",
+        "nom": "Fusilli Barilla 500gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.97,
+        "codeBarre": "5410673000910",
+        "description": "Ici description",
+        "nom": "Riz Oncle Benz 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.94,
+        "codeBarre": "3700311810028",
+        "description": "Ici description",
+        "nom": "Riz long 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.2,
+        "codeBarre": "3222471053546",
+        "description": "Ici description",
+        "nom": "Graine couscous fin 500gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.93,
+        "codeBarre": "3222471142127",
+        "description": "Ici description",
+        "nom": "Saucisses Lentilles 840gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.23,
+        "codeBarre": "3222472100126",
+        "description": "Ici description",
+        "nom": "Thon naturel 200gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.25,
+        "codeBarre": "3222471096567",
+        "description": "Ici description",
+        "nom": "Haricots vert 440gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.79,
+        "codeBarre": "3700311866025",
+        "description": "Ici description",
+        "nom": "Litière 10L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.76,
+        "codeBarre": "4008429022128",
+        "description": "Ici description",
+        "nom": "Litière catsan 5L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.64,
+        "codeBarre": "3222472680420",
+        "description": "Ici description",
+        "nom": "Litière miner 8L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.96,
+        "codeBarre": "3222474699703",
+        "description": "Ici description",
+        "nom": "Croquettes chaton 400gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.29,
+        "codeBarre": "5000161019649",
+        "description": "Ici description",
+        "nom": "One chat steriles 450gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.95,
+        "codeBarre": "8410136207136",
+        "description": "Ici description",
+        "nom": "Patée au thon 80gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.69,
+        "codeBarre": "4008429055553",
+        "description": "Ici description",
+        "nom": "Frolic 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.77,
+        "codeBarre": "3065890041271",
+        "description": "Ici description",
+        "nom": "Pedigree 2kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.02,
+        "codeBarre": "3700260215288",
+        "description": "Ici description",
+        "nom": "Ultima 2kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.99,
+        "codeBarre": "3281011001829",
+        "description": "Ici description",
+        "nom": "Canaris aime 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.59,
+        "codeBarre": "3281011002185",
+        "description": "Ici description",
+        "nom": "Cochon d'inde 800gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.12,
+        "codeBarre": "3281016003552",
+        "description": "Ici description",
+        "nom": "Flocons 50gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.17,
+        "codeBarre": "4004218739901",
+        "description": "Ici description",
+        "nom": "Flocons/copeaux 80gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.18,
+        "codeBarre": "3281019016405",
+        "description": "Ici description",
+        "nom": "Corde à mordiller",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.59,
+        "codeBarre": "3182678634385",
+        "description": "Ici description",
+        "nom": "Dentaflix",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.19,
+        "codeBarre": "3281019014517",
+        "description": "Ici description",
+        "nom": "Grelot",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.07,
+        "codeBarre": "3336971209133",
+        "description": "Ici description",
+        "nom": "Curly 100gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.99,
+        "codeBarre": "0000000022217",
+        "description": "Ici description",
+        "nom": "Laitue rouge /unité",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.35,
+        "codeBarre": "0000000022101",
+        "description": "Ici description",
+        "nom": "Chou fleur /unité",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.98,
+        "codeBarre": "0000000022064",
+        "description": "Ici description",
+        "nom": "Carotte /Kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.48,
+        "codeBarre": "3176582003054",
+        "description": "Ici description",
+        "nom": "Le petit rustique 250gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.35,
+        "codeBarre": "3073786155186",
+        "description": "Ici description",
+        "nom": "La Vache qui rit x8",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1,
+        "codeBarre": "3560071010164",
+        "description": "Ici description",
+        "nom": "Chorizo espagnol 70gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.67,
+        "codeBarre": "3270190025153",
+        "description": "Ici description",
+        "nom": "Mortadelle 140gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.49,
+        "codeBarre": "3270190020295",
+        "description": "Ici description",
+        "nom": "Beurre 1/2 sel 250gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.99,
+        "codeBarre": "3560070392742",
+        "description": "Ici description",
+        "nom": "Oeufs Frais x10",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.11,
+        "codeBarre": "3428272970147",
+        "description": "Ici description",
+        "nom": "Lait Bio Lactel 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.79,
+        "codeBarre": "3245413852113",
+        "description": "Ici description",
+        "nom": "Lait demi-ecrémé 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.16,
+        "codeBarre": "3023290170007",
+        "description": "Ici description",
+        "nom": "Petit nesquick x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 7.51,
+        "codeBarre": "0200837049269",
+        "description": "Ici description",
+        "nom": "Crevettes cuite 600gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.95,
+        "codeBarre": "0201198025916",
+        "description": "Ici description",
+        "nom": "Noix de petoncle 120gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6,
+        "codeBarre": "3276559382196",
+        "description": "Ici description",
+        "nom": "Moules 1,4kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.95,
+        "codeBarre": "3245415348898",
+        "description": "Ici description",
+        "nom": "Saucisse de toulouse x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.4,
+        "codeBarre": "3245415455251",
+        "description": "Ici description",
+        "nom": "Poitrine de porc x10",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.95,
+        "codeBarre": "3245415348928",
+        "description": "Ici description",
+        "nom": "Chair a saucisse 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.1,
+        "codeBarre": "2023232000004",
+        "description": "Ici description",
+        "nom": "Tartelette fraise x2",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 7.9,
+        "codeBarre": "3276550051930",
+        "description": "Ici description",
+        "nom": "Mini gateaux x16",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 13.9,
+        "codeBarre": "2023223001553",
+        "description": "Ici description",
+        "nom": "Gateau mandarine 8 parts",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.05,
+        "codeBarre": "8712566328406",
+        "description": "Ici description",
+        "nom": "Magnum white x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.45,
+        "codeBarre": "5000159344074",
+        "description": "Ici description",
+        "nom": "Snickers galcée x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.09,
+        "codeBarre": "8712566360697",
+        "description": "Ici description",
+        "nom": "Glace caramel fleur de sel",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.33,
+        "codeBarre": "3256830007000",
+        "description": "Ici description",
+        "nom": "Buns Bolognaise x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.4,
+        "codeBarre": "3560070754465",
+        "description": "Ici description",
+        "nom": "Chicken burger x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.77,
+        "codeBarre": "3560070561407",
+        "description": "Ici description",
+        "nom": "Boullettes de boeuf 900gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.85,
+        "codeBarre": "3227061000313",
+        "description": "Ici description",
+        "nom": "Boullettes charal 900gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.21,
+        "codeBarre": "3245411570576",
+        "description": "Ici description",
+        "nom": "Mini rosty 500gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.07,
+        "codeBarre": "8710438101935",
+        "description": "Ici description",
+        "nom": "Mc Cain frites 2,5kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.7,
+        "codeBarre": "3560070699223",
+        "description": "Ici description",
+        "nom": "Frites 2,5kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.43,
+        "codeBarre": "3560070345397",
+        "description": "Ici description",
+        "nom": "Pizza buitoni bolo",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.75,
+        "codeBarre": "7613035090613",
+        "description": "Ici description",
+        "nom": "Piccolinis jambon x9",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.71,
+        "codeBarre": "7613032988852",
+        "description": "Ici description",
+        "nom": "Piccolinis salsicha x9",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.75,
+        "codeBarre": "7613035090583",
+        "description": "Ici description",
+        "nom": "Piccolinis fromaggio x9",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.4,
+        "codeBarre": "3270190208044",
+        "description": "Ici description",
+        "nom": "Colin d'alaska x10",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 14.9,
+        "codeBarre": "3560070274024",
+        "description": "Ici description",
+        "nom": "Gambas sauvages 500gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 7.5,
+        "codeBarre": "3599740009949",
+        "description": "Ici description",
+        "nom": "saumon tranche x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.7,
+        "codeBarre": "3270190020073",
+        "description": "Ici description",
+        "nom": "Lasagnes 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.27,
+        "codeBarre": "324541091078",
+        "description": "Ici description",
+        "nom": "Colin a l'oseille",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.87,
+        "codeBarre": "3282740380216",
+        "description": "Ici description",
+        "nom": "Fondue de saint-jacques",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.15,
+        "codeBarre": "3270190204152",
+        "description": "Ici description",
+        "nom": "Carottes rondelle 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.25,
+        "codeBarre": "3560070122103",
+        "description": "Ici description",
+        "nom": "Haricots verts 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.57,
+        "codeBarre": "3270190026679",
+        "description": "Ici description",
+        "nom": "Legumes couscous 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.8,
+        "codeBarre": "3124480159366",
+        "description": "Ici description",
+        "nom": "Oasis peche abricot 2L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.68,
+        "codeBarre": "3245411667979",
+        "description": "Ici description",
+        "nom": "Jus orange 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.05,
+        "codeBarre": "3560070720712",
+        "description": "Ici description",
+        "nom": "Jus pomme 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.15,
+        "codeBarre": "3560070117345",
+        "description": "Ici description",
+        "nom": "Jus ananas 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 10.51,
+        "codeBarre": "3119780259106",
+        "description": "Ici description",
+        "nom": "Heineken x12",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.04,
+        "codeBarre": "3080216043623",
+        "description": "Ici description",
+        "nom": "Kronenbourg x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.26,
+        "codeBarre": "3245411863081",
+        "description": "Ici description",
+        "nom": "Sirop Peche 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.08,
+        "codeBarre": "3272030007237",
+        "description": "Ici description",
+        "nom": "Sirop Orgeat 70cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.97,
+        "codeBarre": "7613035056497",
+        "description": "Ici description",
+        "nom": "Perrier pomme 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 18.5,
+        "codeBarre": "4067700011015",
+        "description": "Ici description",
+        "nom": "Jagermeister 70cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 14.95,
+        "codeBarre": "5010103800259",
+        "description": "Ici description",
+        "nom": "Whiskey J&B 70cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.2,
+        "codeBarre": "3551720033627",
+        "description": "Ici description",
+        "nom": "Pina colada 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.85,
+        "codeBarre": "3660989163706",
+        "description": "Ici description",
+        "nom": "Sangria 1,5L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.6,
+        "codeBarre": "3245415344678",
+        "description": "Ici description",
+        "nom": "Pays d'Oc 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 14.8,
+        "codeBarre": "3379810079139",
+        "description": "Ici description",
+        "nom": "Pouilly-Fuissé 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.3,
+        "codeBarre": "3221249150340",
+        "description": "Ici description",
+        "nom": "Wolfberger 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 33.35,
+        "codeBarre": "3049610004104",
+        "description": "Ici description",
+        "nom": "Veuve cliquot 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 21.78,
+        "codeBarre": "3113930010104",
+        "description": "Ici description",
+        "nom": "Canard-Duchêne 75cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.95,
+        "codeBarre": "428070734439",
+        "description": "Ici description",
+        "nom": "Semelles molletonnée",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.5,
+        "codeBarre": "3428070748016",
+        "description": "Ici description",
+        "nom": "Cirage marron liquide",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.95,
+        "codeBarre": "3428070106007",
+        "description": "Ici description",
+        "nom": "Deo chaussures",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.89,
+        "codeBarre": "0000000022033",
+        "description": "Ici description",
+        "nom": "Avocat /unité",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.79,
+        "codeBarre": "0000000022132",
+        "description": "Ici description",
+        "nom": "Concombre /unité",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.95,
+        "codeBarre": "3760172350019",
+        "description": "Ici description",
+        "nom": "Perles d'eau lilas 500ml",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 9.9,
+        "codeBarre": "3700324268694",
+        "description": "Ici description",
+        "nom": "Vase Waterfall 18cm",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.9,
+        "codeBarre": "3152950212006",
+        "description": "Ici description",
+        "nom": "Cadre photos 13x19",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.9,
+        "codeBarre": "3608143075908",
+        "description": "Ici description",
+        "nom": "Bol Boston blue",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.45,
+        "codeBarre": "9693357154117",
+        "description": "Ici description",
+        "nom": "6 Verres 35cl",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 10.99,
+        "codeBarre": "8427267082310",
+        "description": "Ici description",
+        "nom": "Poele 26cm",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1990,
+        "codeBarre": "8806088256146",
+        "description": "Ici description",
+        "nom": "TV incurvé samsung 4K",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 49.9,
+        "codeBarre": "4895185615806",
+        "description": "Ici description",
+        "nom": "Poste radio philips",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 16,
+        "codeBarre": "9782081373815",
+        "description": "Ici description",
+        "nom": "La legende du dragon",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 16.5,
+        "codeBarre": "9782359851571",
+        "description": "Ici description",
+        "nom": "Elsa make'up",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.95,
+        "codeBarre": "3020123877430",
+        "description": "Ici description",
+        "nom": "Cahier oxford 24x32",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.2,
+        "codeBarre": "3131910633495",
+        "description": "Ici description",
+        "nom": "Surligneurs x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 35,
+        "codeBarre": "5425038684070",
+        "description": "Ici description",
+        "nom": "Tapis de bain 60x90",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.9,
+        "codeBarre": "3574384700384",
+        "description": "Ici description",
+        "nom": "Rideaux Bicolore",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.28,
+        "codeBarre": "4015600571351",
+        "description": "Ici description",
+        "nom": "Mr Propre 600ml",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.6,
+        "codeBarre": "3330720251015",
+        "description": "Ici description",
+        "nom": "Fraises 320gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.93,
+        "codeBarre": "3330720251855",
+        "description": "Ici description",
+        "nom": "Banane au rhum 320gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.49,
+        "codeBarre": "3608580758693",
+        "description": "Ici description",
+        "nom": "Peche 370gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.98,
+        "codeBarre": "3387390326574",
+        "description": "Ici description",
+        "nom": "Cookie crisp 325gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.9,
+        "codeBarre": "5053827101424",
+        "description": "Ici description",
+        "nom": "Smacks 400gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.56,
+        "codeBarre": "3270190007906",
+        "description": "Ici description",
+        "nom": "cafe moulu  arabira 250gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.92,
+        "codeBarre": "7622210424075",
+        "description": "Ici description",
+        "nom": "Carte noire 250gr x2",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.57,
+        "codeBarre": "7622300002404",
+        "description": "Ici description",
+        "nom": "cafe moulu  express 250gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.2,
+        "codeBarre": "8712100404252",
+        "description": "Ici description",
+        "nom": "Elephant mandarin",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.41,
+        "codeBarre": "8712100827037",
+        "description": "Ici description",
+        "nom": "Elephant rose",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.14,
+        "codeBarre": "3228881084644",
+        "description": "Ici description",
+        "nom": "Elephant tenterelax",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.2,
+        "codeBarre": "3660140921350",
+        "description": "Ici description",
+        "nom": "Savane jungle fraise",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.78,
+        "codeBarre": "3660140808750",
+        "description": "Ici description",
+        "nom": "Savane tout chocolat",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.66,
+        "codeBarre": "7622210320261",
+        "description": "Ici description",
+        "nom": "Napolitain orange x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.89,
+        "codeBarre": "3061990141323",
+        "description": "Ici description",
+        "nom": "Mini BN duo 190gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.98,
+        "codeBarre": "3245413166142",
+        "description": "Ici description",
+        "nom": "Batonnet chocolat blanc",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.75,
+        "codeBarre": "3165430121255",
+        "description": "Ici description",
+        "nom": "Demi rond pure canne 750gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.37,
+        "codeBarre": "3560070339617",
+        "description": "Ici description",
+        "nom": "Sucre poudre 750gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.48,
+        "codeBarre": "3068110703232",
+        "description": "Ici description",
+        "nom": "Francine ble supreme 1kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.59,
+        "codeBarre": "7622210283771",
+        "description": "Ici description",
+        "nom": "Milka granola 100gr x2",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.19,
+        "codeBarre": "3560070877546",
+        "description": "Ici description",
+        "nom": "Pain céréales",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.85,
+        "codeBarre": "3228850000262",
+        "description": "Ici description",
+        "nom": "Jacquet maxi céréales",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.85,
+        "codeBarre": "8410076420541",
+        "description": "Ici description",
+        "nom": "salsa old el paso",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.08,
+        "codeBarre": "5400101173224",
+        "description": "Ici description",
+        "nom": "Petits pois 560gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.41,
+        "codeBarre": "3560070445523",
+        "description": "Ici description",
+        "nom": "Choux bruxelles 530gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.22,
+        "codeBarre": "3083680004848",
+        "description": "Ici description",
+        "nom": "Bonduelle Salsifis 500gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.66,
+        "codeBarre": "3270190124924",
+        "description": "Ici description",
+        "nom": "Moutarde Maille",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.45,
+        "codeBarre": "3660603000059",
+        "description": "Ici description",
+        "nom": "Benedicta mayonnaise",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.46,
+        "codeBarre": "5410673000897",
+        "description": "Ici description",
+        "nom": "Riz Oncle Benz 500gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.27,
+        "codeBarre": "3038359000270",
+        "description": "Ici description",
+        "nom": "Panzani nouilles 500gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.9,
+        "codeBarre": "3017800200476",
+        "description": "Ici description",
+        "nom": "Joue de porc Daucy",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.88,
+        "codeBarre": "3017800187623",
+        "description": "Ici description",
+        "nom": "Boeuf poivre Daucy",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.6,
+        "codeBarre": "3560070846818",
+        "description": "Ici description",
+        "nom": "Confit de canard",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.98,
+        "codeBarre": "8712100824890",
+        "description": "Ici description",
+        "nom": "Douceur potiron",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.95,
+        "codeBarre": "8722700026532",
+        "description": "Ici description",
+        "nom": "Knorr soupe carottes",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.49,
+        "codeBarre": "3168930007579",
+        "description": "Ici description",
+        "nom": "Deep chili",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.89,
+        "codeBarre": "3336971504047",
+        "description": "Ici description",
+        "nom": "Crunchy barbecue",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.95,
+        "codeBarre": "3760083690181",
+        "description": "Ici description",
+        "nom": "Litière hygiene 5L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 7.9,
+        "codeBarre": "3023610311127",
+        "description": "Ici description",
+        "nom": "Litière végétale 7L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.87,
+        "codeBarre": "3222270198189",
+        "description": "Ici description",
+        "nom": "Felix Terrine",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.47,
+        "codeBarre": "3560070821464",
+        "description": "Ici description",
+        "nom": "Terrine foie/Volaille",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.39,
+        "codeBarre": "5998749129067",
+        "description": "Ici description",
+        "nom": "Wiskas 1.75kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.05,
+        "codeBarre": "3010470181595",
+        "description": "Ici description",
+        "nom": "Croq chien",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.27,
+        "codeBarre": "3065892900002",
+        "description": "Ici description",
+        "nom": "Pedigree volaille",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.55,
+        "codeBarre": "3700260221821",
+        "description": "Ici description",
+        "nom": "Ultima medium",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.2,
+        "codeBarre": "4004218736771",
+        "description": "Ici description",
+        "nom": "Guppy food",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.8,
+        "codeBarre": "4004218726345",
+        "description": "Ici description",
+        "nom": "Tetramin",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.5,
+        "codeBarre": "4008239249531",
+        "description": "Ici description",
+        "nom": "Hamster 800gr",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.68,
+        "codeBarre": "3608141636224",
+        "description": "Ici description",
+        "nom": "Baguettes lapins fruits x2",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.1,
+        "codeBarre": "3023610109212",
+        "description": "Ici description",
+        "nom": "Biberon 250ml",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 10,
+        "codeBarre": "3281019016535",
+        "description": "Ici description",
+        "nom": "Play strong",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.96,
+        "codeBarre": "3608141014589",
+        "description": "Ici description",
+        "nom": "Haltere coton",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.15,
+        "codeBarre": "3560070828890",
+        "description": "Ici description",
+        "nom": "girafe fantaisie",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.39,
+        "codeBarre": "3059940006310",
+        "description": "Ici description",
+        "nom": "Destop canalisation",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.4,
+        "codeBarre": "3023610249833",
+        "description": "Ici description",
+        "nom": "Oiseau ciel 1.8kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 1.93,
+        "codeBarre": "3609230255210",
+        "description": "Ici description",
+        "nom": "Millet grappe",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.1,
+        "codeBarre": "3281010002247",
+        "description": "Ici description",
+        "nom": "Flocon marin",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.85,
+        "codeBarre": "3280821523460",
+        "description": "Ici description",
+        "nom": "Ble 5kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.05,
+        "codeBarre": "3280823310228",
+        "description": "Ici description",
+        "nom": "Melange blé avoine",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.35,
+        "codeBarre": "3280823123286",
+        "description": "Ici description",
+        "nom": "Mais 5kg",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.29,
+        "codeBarre": "5029053039893",
+        "description": "Ici description",
+        "nom": "Kleenex boite x4",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.85,
+        "codeBarre": "7322540709254",
+        "description": "Ici description",
+        "nom": "Lotus compact x6",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.79,
+        "codeBarre": "4084500681354",
+        "description": "Ici description",
+        "nom": "Ariel ecodose x21",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.15,
+        "codeBarre": "3560070559039",
+        "description": "Ici description",
+        "nom": "Marseille 2L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.8,
+        "codeBarre": "8710908485923",
+        "description": "Ici description",
+        "nom": "Persil liquide 1.29L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 0.82,
+        "codeBarre": "3270190174387",
+        "description": "Ici description",
+        "nom": "Coton tige",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 29.95,
+        "codeBarre": "3059944024143",
+        "description": "Ici description",
+        "nom": "Veet spawax kit",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.31,
+        "codeBarre": "3251241034690",
+        "description": "Ici description",
+        "nom": "Petit marseillais",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.5,
+        "codeBarre": "3600550816853",
+        "description": "Ici description",
+        "nom": "Franck Provost 750ml",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 13.3,
+        "codeBarre": "4084500423640",
+        "description": "Ici description",
+        "nom": "Head&Shoolders 1L",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.15,
+        "codeBarre": "8712561030045",
+        "description": "Ici description",
+        "nom": "Signal white now",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.68,
+        "codeBarre": "8718951042674",
+        "description": "Ici description",
+        "nom": "Anti carie elmex",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 2.35,
+        "codeBarre": "4005800060045",
+        "description": "Ici description",
+        "nom": "Eau oxygénée",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 14.29,
+        "codeBarre": "3532281631705",
+        "description": "Ici description",
+        "nom": "Préservatifs skin x20",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.94,
+        "codeBarre": "3600523211906",
+        "description": "Ici description",
+        "nom": "Men expert",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 9.82,
+        "codeBarre": "3600550083316",
+        "description": "Ici description",
+        "nom": "Parfum Viva passion",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 5.9,
+        "codeBarre": "3613865510316",
+        "description": "Ici description",
+        "nom": "Soutien gorge rouge",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 9.9,
+        "codeBarre": "3614610093276",
+        "description": "Ici description",
+        "nom": "Soutien gorge blanc",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 12.9,
+        "codeBarre": "3613867357919",
+        "description": "Ici description",
+        "nom": "Slip x2",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 3.56,
+        "codeBarre": "3608253085483",
+        "description": "Ici description",
+        "nom": "Togue hello kitty",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.43,
+        "codeBarre": "1234575433566",
+        "description": "Ici description",
+        "nom": "Talon",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 15.34,
+        "codeBarre": "1234575453566",
+        "description": "Ici description",
+        "nom": "Short de bain",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 4.56,
+        "codeBarre": "1234575463566",
+        "description": "Ici description",
+        "nom": "Veste jeans",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 6.21,
+        "codeBarre": "1234575473566",
+        "description": "Ici description",
+        "nom": "Biberon XXL",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 7.9,
+        "codeBarre": "1234575433576",
+        "description": "Ici description",
+        "nom": "Espadrille",
+        "quantite": 1
+    },
+    {
+        "coordX": 0,
+        "categorie": {},
+        "coordY": 0,
+        "prix": 8.54,
+        "codeBarre": "1214575433566",
+        "description": "Ici description",
+        "nom": "Ceinture",
+        "quantite": 1
+    }
+]}

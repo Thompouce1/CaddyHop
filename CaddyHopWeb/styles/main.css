@@ -1,0 +1,404 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+body {
+  padding: 0;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+leg{
+	color: #FF6633;
+}
+
+ul {
+list-style:none;
+}
+
+rare{
+	color: #3300FF;
+}
+
+epique{
+	color: #660099;
+}
+
+#bCarte{
+	margin-bottom: -15px;
+	margin-top: -1px;
+}
+
+#liennaxx{
+	font-size: 20px;
+	color: black;
+}
+
+#liennaxx:hover{
+	text-decoration:none;
+	color: #3ABC4E;
+}
+
+#lienbrm{
+	font-size: 20px;
+	color: black;
+}
+
+#btnLogin{
+	max-width: 60px;
+}
+
+#btnTuto{
+	max-width: 400px;
+}
+
+#lienbrm:hover{
+	text-decoration:none;
+	color: #FFA200;
+}
+
+#lienloe{
+	font-size: 20px;
+	color: black;
+}
+
+#lienloe:hover{
+	text-decoration:none;
+	color: #45A8E5;
+}
+
+#liengvg{
+	font-size: 20px;
+	color: black;
+}
+
+#liengvg:hover{
+	text-decoration:none;
+	color: #0D6196;
+}
+
+#lientgt{
+	font-size: 20px;
+	color: black;
+}
+
+#lientgt:hover{
+	text-decoration:none;
+	color: #9B2CBC;
+}
+
+#imagetgt{
+	margin-bottom: 20px;
+}
+
+#carte{
+	margin-top: -30px;
+}
+
+#carteA{
+	margin-top: -20px;
+
+}
+
+#ban{
+	margin-top: -30px;
+	margin-bottom: -20px;
+}
+
+#bant{
+	height: 30px;
+}
+
+#descendre{
+	margin-top: 10px;
+}
+
+#mana{
+	max-width: 200px;
+}
+
+#filtre{
+	margin-top: -4px;
+	margin-bottom: -4px;
+}
+
+#block {
+	padding:3px; 
+	border:8px ridge; 
+}
+
+#dust {
+	padding:3px; 
+	border:8px ridge; 
+}
+
+#register{
+	max-width: 20px;
+}
+
+#lead{
+	font-size: 40px;
+}
+
+#inv{
+	font-size: 17px;
+	color: #EEEEEE;
+}
+
+#boule{
+	max-width: 20px;
+	margin-left: auto;
+    margin-right: auto;
+	display: block;
+}
+
+#onglets
+{
+    font : bold 30px Batang, arial, serif;
+    list-style-type : none;
+    padding-bottom : 37px;
+    border-bottom : 1px solid #9EA0A1;
+    margin-left : 0;
+}
+
+#onglets li
+{
+    float : left;
+    height : 35px; /* à modifier suivant la taille de la police pour centrer le texte dans l'onglet */
+    background-color: #F4F9FD;
+    margin : 2px 2px 0 2px !important;  /* Pour les navigateurs autre que IE */
+    margin : 1px 2px 0 2px;  /* Pour IE  */
+    border : 1px solid #9EA0A1;
+}
+
+#onglets li.active
+{
+    border-bottom: 1px solid #fff;
+    background-color: #fff;
+}
+
+#onglets a
+{
+    display : block;
+    color : #666;
+    text-decoration : none;
+    padding : 4px;
+}
+
+#onglets a:hover
+{
+    background : #fff;
+}
+
+
+#cc{
+	margin-top: 7px;
+}
+
+/*#deckbuilder{
+	background: url('images/deckBuilder/fond.png');
+}*/
+
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+
+#table{
+	background: url('images/deckBuilder/fond.png');
+}
+
+#ligne12{
+	margin-top: -120px;
+}
+
+#ligne3{
+	margin-top: -120px;
+	margin-bottom: -60px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 10px;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  margin: 0 auto;
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.jumbotron .lead{
+  font-size: 40px;
+}
+
+.jumbotron .lead1{
+  font-size: 30px;
+}
+
+/* img */
+.img-responsive{
+  margin: 0 auto; 
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 1200px;
+  }
+
+  /* Remove the padding we set earlier */
+  .header,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+  
+  /*enregistrer et se connecter*/
+   *, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#account {
+  max-width: 300px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background: #e8eeef;
+  border-radius: 8px;
+}
+
+h1 {
+  margin: 0 0 30px 0;
+  text-align: center;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="pseudo"],
+input[type="battle_tag"],
+input[type="team"],
+textarea,
+select {
+  background: rgba(255,255,255,0.1);
+  border: none;
+  font-size: 16px;
+  height: auto;
+  margin: 0;
+  outline: 0;
+  padding: 15px;
+  width: 100%;
+  background-color: #FFFFFF;
+  color: #8a97a0;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  margin-bottom: 30px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin: 0 4px 8px 0;
+}
+
+select {
+  padding: 6px;
+  height: 32px;
+  border-radius: 2px;
+}
+
+button {
+  padding: 19px 39px 18px 39px;
+  color: #FFF;
+  background-color: #4bc970;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 5px;
+  width: 100%;
+  border: 1px solid #3ac162;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  margin-bottom: 10px;
+}
+
+fieldset {
+  margin-bottom: 30px;
+  border: none;
+}
+
+legend {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+label.light {
+  font-weight: 300;
+  display: inline;
+}
+
+.number {
+  background-color: #5fcf80;
+  color: #fff;
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  font-size: 0.8em;
+  margin-right: 4px;
+  line-height: 30px;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+  border-radius: 100%;
+}
+
+@media screen and (min-width: 480px) {
+
+  #account {
+    max-width: 480px;
+  }
+
+}
+}

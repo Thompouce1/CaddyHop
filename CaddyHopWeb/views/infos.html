@@ -1,0 +1,88 @@
+<div ng-controller="identCtrl">
+<div class="jumbotron">
+	<p class="lead"> Informations personnelles </p>
+	<div class="col-md-12">
+		<div class="col-md-3">
+			Login:
+		</div>
+		<div class="col-md-3">
+			{{yourlogin}}
+		</div>
+		<div class="col-md-3">
+			<a>modifier</a>
+		</div>
+		<div class="col-md-3">
+			<a type="button" class="btn"><img class="img-responsive" src="images/modify/modify.png" alt="modifier"></a>
+		</div>
+	</div>
+	
+	<div class="col-md-12">
+		<div class="col-md-3">
+			E-Mail:
+		</div>
+		<div class="col-md-3">
+			{{yourmail}}
+		</div>
+		<div class="col-md-3">
+			<a>modifier</a>
+		</div>
+		<div class="col-md-3">
+			<a type="button" class="btn"><img class="img-responsive" src="images/modify/modify.png" alt="modifier"></a>
+		</div>
+	</div>
+	
+	<div class="col-md-12">
+		<div class="col-md-3">
+			Nom:
+		</div>
+		<div class="col-md-3">
+			{{yourname}}
+		</div>
+		<div class="col-md-3">
+			<a>modifier</a>
+		</div>
+		<div class="col-md-3">
+			<a type="button" class="btn"><img class="img-responsive" src="images/modify/modify.png" alt="modifier"></a>
+		</div>
+	</div>
+	
+	<div class="col-md-12">
+		<div class="col-md-3">
+			Prenom:
+		</div>
+		<div class="col-md-3">
+			{{yournick}}
+		</div>
+		<div class="col-md-3">
+			<a>modifier</a>
+		</div>
+		<div class="col-md-3">
+			<a type="button" class="btn"><img class="img-responsive" src="images/modify/modify.png" alt="modifier"></a>
+		</div>
+	</div>
+	<p id="inv"> 0 </p>
+</div>
+<br><br><br>
+
+<div class="jumbotron">
+	<p class="lead"> Mes Cartes de fidélités </p>
+	<div class="col-md-12">
+		vous avez {{1}} carte {{casino}} enregistrée
+	</div><br><br>
+	<div class="col-md-12">
+		<div class="col-md-3">
+			<p>Ajouter une carte:</p>
+		</div>
+		<div class="col-md-3">
+			<input ng-model="magasin" type="search" class="input-sm form-control" placeholder="Nom du magasin">
+		</div>
+		<div class="col-md-3">
+			<input ng-model="numero" type="search" class="input-sm form-control" placeholder="Numero de la carte">
+		</div>
+		<div class="col-md-3">
+			<button type="button" class="btn btn-info">Ajouter</button>
+		</div>	
+	</div>	
+	<p id="inv"> 0 </p>
+</div>
+</div>

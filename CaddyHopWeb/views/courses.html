@@ -1,0 +1,99 @@
+<div ng-controller="identCtrl">
+<div class="jumbotron">
+	<p class="lead"> Mes Listes de courses </p>
+	
+	<table class="table table-bordered">
+		<thead>
+		  <tr>
+			<th>Nom de la liste</th>
+			<th>liste id</th>
+			<th>Modifier</th>
+			<th>Supprimer</th>
+		  </tr>
+		</thead>
+		<tbody>
+		  <tr ng-repeat='listes in AllListUser'>
+		  <td>
+			{{listes.nom}}
+		  </td>
+		  <td>
+			{{listes.id}}
+		  </td>
+		  <td>
+			<a type="button" ng-click="modifyList(listes.id)" class="btn"><img class="img-responsive" src="images/modify/modify.png" alt="modifier"></a>
+		  </td>
+		  <td>
+			<a type="button" ng-click="deleteListForUser(listes.id)" class="btn"><img class="img-responsive" src="images/modify/delete.png" alt="supprimer"></a>
+			</td>
+		  </tr>				  
+		</tbody>
+	</table>
+	<div class="col-md-12">	
+		<div class="col-md-6">
+			<form name="myForm">
+				<input ng-model='listname'  class="form-control" placeholder="Donnez un nom a votre liste"required>
+			</form>
+		</div>
+		<div class="col-md-6">
+			<button type="button" ng-disabled="myForm.$invalid || myForm.$pending" class="btn btn-info" ng-click="newListForUser(listname)">Ajouter une nouvelle Liste</button>
+		</div>
+	</div>
+			
+			
+</div>
+
+<br><br><br>
+
+<div class="col-md-12">	
+	<div class="col-md-6">
+		<div class="jumbotron">
+			<p class="lead"> Liste de courses</p>			
+			
+			<table class="table table-bordered">
+				<thead>
+				  <tr>
+					<th>Produit</th>
+					<th>Quantitée</th>
+				  </tr>
+				</thead>
+				<tbody>
+				  <tr ng-repeat='article in list'>
+				  
+				  <td>{{article.nom}}</td>
+				  <td>
+					<a type="button" class="btn" ng-click="del(article)"><img class="img-responsive" src="images/ajoutsuppr/moins.png" alt="supprimer"></a>
+					{{article.quantite}}
+					<a type="button" class="btn" ng-click="add(article)"><img class="img-responsive" src="images/ajoutsuppr/plus.png" alt="ajouter"></a>
+					<a type="button" class="btn" ng-click="suppressionArticle(article)"><img class="img-responsive" src="images/modify/delete.png" alt="suppr"></a>
+				  </td>					
+				  </tr>
+				<tr>				
+				</tr>				  
+				</tbody>
+			  </table>
+		</div>
+		<br><br><br>
+		<div class="jumbotron">
+			
+		</div>
+	</div>
+	<div class="col-md-6">
+		<div class="jumbotron">
+				Filtrer les magasin :	<input type="checkbox" ng-model="checkboxModel.value5">5km 
+										<input type="checkbox" ng-model="checkboxModel.value10">10km
+										<input type="checkbox" ng-model="checkboxModel.value15">15km
+										<input type="checkbox" ng-model="checkboxModel.valueall">toute la france
+				<hr>
+				Recherche: <input ng-model='filterExpr'><br>Votre recherche a filtré {{filtered.length}} articles
+				<hr>
+				<ul>
+				<li ng-repeat='item in filtered = (articleMagasin | filter:filterExpr)'><p><a ng-click="addArticle(item)">{{item.nom}}</a> | {{item.prix}} €</p></li>
+				</ul>
+				<hr>    
+				
+			
+
+		</div>
+	</div>
+</div>
+</div>

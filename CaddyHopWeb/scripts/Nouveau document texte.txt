@@ -1,0 +1,14 @@
+[
+  {
+    "article": "Coca-Cola",
+    "quantitée": 2
+  },
+  {
+    "article": "Macaroni",
+    "quantitée": 1
+  },
+  {
+    "article": "Glace à la Vanille",
+    "quantitée": 1
+  }
+]

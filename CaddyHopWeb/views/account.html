@@ -1,0 +1,29 @@
+<div ng-controller="identCtrl">
+<div class="jumbotron">
+	<div class="col-md-12">
+		<p class="lead"> S'inscrire</p>
+
+		<form name="myForm" id="account">
+			<label for="pseudo">Pseudo:</label>
+			<input ng-model='pseudo' type="mail" class="form-control" required>
+
+			<label for="password">Mot de passe:</label>
+			<input ng-model='mdp' type="password" class="form-control" required>
+
+			<label for="mail">E-mail:</label>
+			<input ng-model='mail' type="mail" class="form-control" required>
+
+			<label for="nom">Nom:</label>
+			<input ng-model='nom' type="mail" class="form-control" required>
+
+			<label for="prenom">Prenom:</label>
+			<input ng-model='prenom' type="mail" class="form-control" required>
+			<br><br>
+			<button ng-disabled="myForm.$invalid || myForm.$pending" type="button" class="btn btn-info" ng-click="NewUserSubscription(pseudo, mdp, mail, nom, prenom)">M'inscrire</button>
+		</form>		
+	</div>
+	<p id="inv"> 0 </p>
+</div>
+</div>
+<br><br><br>
+
